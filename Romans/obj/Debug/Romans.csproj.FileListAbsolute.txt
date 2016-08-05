@@ -1,0 +1,6 @@
+c:\users\ichedia\documents\visual studio 2015\Projects\Romans\Romans\bin\Debug\Romans.exe.config
+c:\users\ichedia\documents\visual studio 2015\Projects\Romans\Romans\bin\Debug\Romans.exe
+c:\users\ichedia\documents\visual studio 2015\Projects\Romans\Romans\bin\Debug\Romans.pdb
+c:\users\ichedia\documents\visual studio 2015\Projects\Romans\Romans\obj\Debug\Romans.csprojResolveAssemblyReference.cache
+c:\users\ichedia\documents\visual studio 2015\Projects\Romans\Romans\obj\Debug\Romans.exe
+c:\users\ichedia\documents\visual studio 2015\Projects\Romans\Romans\obj\Debug\Romans.pdb
